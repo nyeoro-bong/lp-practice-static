@@ -10,12 +10,22 @@ https://github.com/nyeoro-bong/lp-practice-static/projects/1
 
 #サイトのURL
 ```
-http://nyolobong.s223.xrea.com/
+http://nyolobong.ｓｈｏｐ
 ```
+
 #ssh接続
 ```
 ssh nyolobong@s223.xrea.com
 ```
+
+# リリース手順
+
+プロジェクトディレクトリで以下のコマンドを実行してください
+
+```
+sh deploy.sh
+```
+
 ドメイン名
 ```
 nyolobong.shop
